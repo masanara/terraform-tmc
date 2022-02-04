@@ -1,0 +1,9 @@
+variable "token" {}
+variable "endpoint" {}
+variable "clustername" {}
+variable "tkcversion" {}
+variable "datacenter" {}
+variable "datastore" {}
+variable "workspace_network" {}
+variable "folder" {}
+variable "resource_pool" {}
